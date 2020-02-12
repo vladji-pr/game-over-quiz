@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.345d3873.chunk.css",
+    "main.js": "/static/js/main.1b89be63.chunk.js",
+    "main.js.map": "/static/js/main.1b89be63.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.708445b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.708445b0.js.map",
+    "static/js/2.d63a547f.chunk.js": "/static/js/2.d63a547f.chunk.js",
+    "static/js/2.d63a547f.chunk.js.map": "/static/js/2.d63a547f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f21c48ac4b4ef76f672f0bbc1e43dbff.js": "/precache-manifest.f21c48ac4b4ef76f672f0bbc1e43dbff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.345d3873.chunk.css.map": "/static/css/main.345d3873.chunk.css.map",
+    "static/js/2.d63a547f.chunk.js.LICENSE": "/static/js/2.d63a547f.chunk.js.LICENSE",
+    "static/media/error.mp3": "/static/media/error.165166d5.mp3",
+    "static/media/App.css": "/static/media/pixel-txt.e778eaa0.ttf",
+    "static/media/gave-over-img.jpg": "/static/media/gave-over-img.cfa2319a.jpg",
+    "static/media/intoxicated_gta.mp3": "/static/media/intoxicated_gta.4f7014ff.mp3",
+    "static/media/Header.css": "/static/media/pixel-logo.32fb2d15.ttf",
+    "static/media/succes.mp3": "/static/media/succes.a1e9e8b6.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.708445b0.js",
+    "static/js/2.d63a547f.chunk.js",
+    "static/css/main.345d3873.chunk.css",
+    "static/js/main.1b89be63.chunk.js"
+  ]
+}
